@@ -66,5 +66,5 @@ public class BaseSelenium {
     private WebElement busca(By elemento){
         return this.driver.findElement(elemento);
     }
-    
+
 }
